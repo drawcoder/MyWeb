@@ -1,0 +1,22 @@
+{
+  "name": "myweb",
+  "version": "1.0.0",
+  "description": "test web case",
+  "main": "index.js",
+  "scripts": {
+    "test": "build"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/drawcoder/MyWeb.git"
+  },
+  "author": "cy",
+  "license": "UNLICENSED",
+  "bugs": {
+    "url": "https://github.com/drawcoder/MyWeb/issues"
+  },
+  "homepage": "https://github.com/drawcoder/MyWeb#readme",
+  "dependencies": {
+    "create-react-app": "^1.5.2"
+  }
+}
